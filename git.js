@@ -6,7 +6,7 @@ const merge="name and last name"
 const webname="www.gfg.com"
 
 const uname={
-    uname1:ady12,
+    uname1:"ady12",
     password:"123adarsh",
 }
 
@@ -16,6 +16,7 @@ const lname={
     lname:"yadav",
 }
 
-while(1){
+while(true){
     console.log("hi my name is adarsh yadav");
 }
+
