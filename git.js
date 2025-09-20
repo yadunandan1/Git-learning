@@ -9,3 +9,9 @@ const uname={
     uname1:ady12,
     password:"123adarsh",
 }
+
+const lname={
+    fname:"adarsh",
+    mname:"kumar",
+    lname:"yadav",
+}
