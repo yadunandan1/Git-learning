@@ -15,3 +15,7 @@ const lname={
     mname:"kumar",
     lname:"yadav",
 }
+
+while(1){
+    console.log("hi my name is adarsh yadav");
+}
