@@ -20,3 +20,5 @@ while(true){
     console.log("hi my name is adarsh yadav");
 }
 
+console.log("mai to sahi nhi hu")
+
